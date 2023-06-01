@@ -1,1 +1,1 @@
-func msin() {}
+func main() {}
